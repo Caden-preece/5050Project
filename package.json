@@ -1,0 +1,25 @@
+{
+  "name": "husl",
+  "version": "1.0.0",
+  "description": "A CRM for private blue collar business owners.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caden-preece/5050project.git"
+  },
+  "author": "Here To Make Ligma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caden-preece/5050project/issues"
+  },
+  "homepage": "https://github.com/Caden-preece/5050project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
